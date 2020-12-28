@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:scheduler_flutter/addProspet.dart';
+import 'package:scheduler_flutter/EditTask.dart';
 
 import '../taskCard.dart';
 
